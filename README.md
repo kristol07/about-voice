@@ -21,8 +21,15 @@
 - Stepfun audio chat
 - [Soundwave](https://arxiv.org/abs/2502.12900)
 - [kyutai moshi](https://github.com/kyutai-labs/moshi)
+- [fixie ultravox](https://github.com/fixie-ai/ultravox)
 
 ## Trucs
 
 - [smart-turn](https://github.com/pipecat-ai/smart-turn)
 
+### labs and companies
+
+- https://www.sesame.com/
+- https://canopylabs.ai/
+- https://kyutai.org/
+- https://fixie.ai/
