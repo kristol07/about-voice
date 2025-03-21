@@ -33,3 +33,9 @@
 - https://canopylabs.ai/
 - https://kyutai.org/
 - https://fixie.ai/
+
+## framework
+
+- pipecat
+- TEN
+- livekit
